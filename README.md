@@ -1,1 +1,1 @@
-# design_patter_c
+# Design Patter in C
