@@ -1,1 +1,1 @@
-# Design Patter in C
+# Design Pattern
